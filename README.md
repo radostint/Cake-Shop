@@ -1,3 +1,4 @@
+![Alt text](./cap_products_screen.png?raw=true "Title")
 # Cake and Pastry Shop (CaP)
 >Cake and Pastry Shop app is small app,which can be used to order cakes and pastry from.
 
