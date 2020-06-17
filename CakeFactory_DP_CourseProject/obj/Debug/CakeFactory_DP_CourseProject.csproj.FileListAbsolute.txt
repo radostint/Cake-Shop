@@ -1,0 +1,11 @@
+C:\Users\rado1\source\repos\CakeFactory_DP_CourseProject\CakeFactory_DP_CourseProject\obj\Debug\CakeFactory_DP_CourseProject.csprojAssemblyReference.cache
+C:\Users\rado1\source\repos\CakeFactory_DP_CourseProject\CakeFactory_DP_CourseProject\bin\Debug\CakeFactory_DP_CourseProject.exe.config
+C:\Users\rado1\source\repos\CakeFactory_DP_CourseProject\CakeFactory_DP_CourseProject\bin\Debug\CakeFactory_DP_CourseProject.exe
+C:\Users\rado1\source\repos\CakeFactory_DP_CourseProject\CakeFactory_DP_CourseProject\bin\Debug\CakeFactory_DP_CourseProject.pdb
+C:\Users\rado1\source\repos\CakeFactory_DP_CourseProject\CakeFactory_DP_CourseProject\obj\Debug\CakeFactory_DP_CourseProject.exe
+C:\Users\rado1\source\repos\CakeFactory_DP_CourseProject\CakeFactory_DP_CourseProject\obj\Debug\CakeFactory_DP_CourseProject.pdb
+C:\Users\rado1\source\repos\CakeFactory_DP_CourseProject\CakeFactory_DP_CourseProject\obj\Debug\CakeFactory_DP_CourseProject.MainScreen.resources
+C:\Users\rado1\source\repos\CakeFactory_DP_CourseProject\CakeFactory_DP_CourseProject\obj\Debug\CakeFactory_DP_CourseProject.csproj.GenerateResource.cache
+C:\Users\rado1\source\repos\CakeFactory_DP_CourseProject\CakeFactory_DP_CourseProject\obj\Debug\CakeFactory_DP_CourseProject.Properties.Resources.resources
+C:\Users\rado1\source\repos\CakeFactory_DP_CourseProject\CakeFactory_DP_CourseProject\obj\Debug\CakeFactory_DP_CourseProject.ProductsControl.resources
+C:\Users\rado1\source\repos\CakeFactory_DP_CourseProject\CakeFactory_DP_CourseProject\obj\Debug\CakeFactory_DP_CourseProject.HomeControl.resources
